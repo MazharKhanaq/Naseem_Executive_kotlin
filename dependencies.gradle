@@ -1,0 +1,85 @@
+ext {
+
+    def vAndroidX = '1.3.0'
+    def vConstraint = '2.0.4'
+    def vHilt = '2.37'
+    def RecyclerVersion = '1.1.0'
+    def vMaterial = '1.4.0'
+    def vHiltCompiler = '1.0.0-alpha03'
+    def vFrag = '1.3.6'
+    def vActivity = '1.3.1'
+    def retrofit = '2.9.0'
+    def roomDb = '2.4.0-alpha04'
+
+    pkg = [name: "com.infini8ai.naseemexecutive"]
+
+    sdk = [
+            compile: 30,
+            tools  : "30.0.3",
+            min    : 21,
+            code   : 1,
+            name   : "1.0"
+    ]
+
+    androidx = [
+            appCompat       : "androidx.appcompat:appcompat:$vActivity",
+            constraintLayout: "androidx.constraintlayout:constraintlayout:$vConstraint",
+            recyclerView    : "androidx.recyclerview:recyclerview:$RecyclerVersion",
+            material        : "com.google.android.material:material:$vMaterial",
+            picasso         : 'com.squareup.picasso:picasso:2.71828',
+            kotlin : 'org.jetbrains.kotlin:kotlin-stdlib:1.5.0'
+    ]
+
+    hilt = [hilt: "com.google.dagger:hilt-android:$vHilt"]
+
+    kapts = [daggerCompiler: "com.google.dagger:hilt-compiler:$vHilt"]
+
+    lifecycle = [
+            viewModelKtx: "androidx.hilt:hilt-lifecycle-viewmodel:$vHiltCompiler"
+    ]
+
+    firebase = [auth    : 'com.google.firebase:firebase-auth:19.4.0',
+            database :  'com.google.firebase:firebase-database:19.4.0'
+
+    ]
+
+    phoneValidator = [
+            lib: 'com.googlecode.libphonenumber:libphonenumber:8.12.3'
+    ]
+
+    playServices = [
+            auth : 'com.google.android.gms:play-services-auth:19.0.0',
+            phone: 'com.google.android.gms:play-services-auth-api-phone:17.4.0'
+    ]
+
+    /**
+     *  used for extension functions in fragment and activity
+     *  */
+    ktxExtensions = [
+            fragment: "androidx.fragment:fragment-ktx:$vFrag",
+            activity: "androidx.activity:activity-ktx:$vActivity"
+    ]
+
+    retrofitLibrary = [
+            retro               : "com.squareup.retrofit2:retrofit:$retrofit",
+            retro_converter_gson: "com.squareup.retrofit2:converter-gson:$retrofit",
+
+            implementation: "com.squareup.retrofit2:converter-scalars:$retrofit"
+    ]
+    roomDatabase = [
+            room_runtime : "androidx.room:room-runtime:$roomDb",
+            room_compiler: "androidx.room:room-compiler:$roomDb"
+    ]
+    glide = [
+            glideLib: "com.github.bumptech.glide:glide:4.12.0"
+    ]
+
+    /*for network call*/
+    okHttp3 = [
+            network: "com.squareup.okhttp3:okhttp:4.4.0"
+    ]
+
+
+
+
+}

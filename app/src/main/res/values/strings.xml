@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Naseem Executive</string>
+
+    <!--Login Activity-->
+    <string name="email">Email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_account">Create Account</string>
+    <string name="sign_up">Sign Up?</string>
+
+    <!--Signup Activity-->
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="sign__up">Sign Up</string>
+    <string name="confirm_password_not_match">Password and confirm password does not match</string>
+
+    <!--Activity-->
+    <string name="select_yearmonth_fees">Select months/year to view Fees</string>
+
+    <!--Responses-->
+    <string name="bad_response">Bad Response</string>
+    <string name="successfully_login">Successfully login</string>
+    <string name="logout_successfully">Logout successfully</string>
+    <string name="account_does_not_exist">Account does not exist</string>
+    <string name="enter_your_location">Enter Location</string>
+    <string name="enter_your_password">Enter Password</string>
+    <string name="enter_confirm_password">Confirm your Password</string>
+    <string name="confirm_password_does_not_match">Password does not match</string>
+
+    <!--Button-->
+
+    <string name="naseem_executive_nhope_you_will_enjoy_the_nstay_here">Naseem Executive\nHope You Will Enjoy The\nStay Here!</string>
+    <string name="todo">TODO</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="you_are_not_allowed">You are not allowed to login</string>
+    <string name="no_schools_added_yet">No schools added yet!!</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="classes">Classes</string>
+    <string name="teachers">Employees</string>
+    <string name="principal">Manager</string>
+    <string name="results">Results</string>
+    <string name="naseem_executive">Naseem Executive</string>
+    <string name="students_0">Students: 0</string>
+    <string name="azme_shaoor_fcc">Azme Shaoor FCC</string>
+    <string name="this_is_your_school_code">This is your school code</string>
+    <string name="_0000000000">0000000000</string>
+    <string name="cohorts_0">Cohorts: 0</string>
+    <string name="employees_0">Employees: 0</string>
+    <string name="principal_requests">Principal Requests</string>
+    <string name="expenditure">Expenditure</string>
+
+    <!--switch-->
+
+<!--    spinners item-->
+    <string-array name="array_years">
+        <item>2015</item>
+        <item>2016</item>
+        <item>2017</item>
+        <item>2018</item>
+        <item>2019</item>
+        <item>2020</item>
+        <item>2021</item>
+        <item>2022</item>
+        <item>2023</item>
+        <item>2023</item>
+        <item>2024</item>
+        <item>2025</item>
+        <item>2026</item>
+    </string-array>
+
+</resources>

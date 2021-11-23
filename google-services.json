@@ -1,0 +1,467 @@
+{
+  "project_info": {
+    "project_number": "224160441920",
+    "firebase_url": "https://naseem-ae1a0.firebaseio.com",
+    "project_id": "naseem-ae1a0",
+    "storage_bucket": "naseem-ae1a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:4033a24813c6d771ef61a5",
+        "android_client_info": {
+          "package_name": "com.example.schooladmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-39p750vuqrekvbft8c7fjikmhicsda9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schooladmin",
+            "certificate_hash": "33d80626a13f5fc0fdf2773e32f7bf10170a6ea1"
+          }
+        },
+        {
+          "client_id": "224160441920-fk4ktv9i89ggjhbm8cqj12vi3d3klno8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schooladmin",
+            "certificate_hash": "30fd6109e6b330f1cff7bc958e70ce1de5af4a3e"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:26236b84bd33933d",
+        "android_client_info": {
+          "package_name": "com.infini8ai.naseemexecutive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-ar5l0uqf7nks4ab2039g76g8ht4rsh4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemexecutive",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd3"
+          }
+        },
+        {
+          "client_id": "224160441920-lm034gl24octojpoegubetoof4h25be1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemexecutive",
+            "certificate_hash": "9224caf3b5e467a34120138c59a71badd3210fe6"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:562f891e1f01aa98ef61a5",
+        "android_client_info": {
+          "package_name": "com.infini8ai.naseemlearningworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-ljo6nae1inbvs1tkm6sig0de4as55coh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemlearningworld",
+            "certificate_hash": "30fd6109e6b330f1cff7bc958e70ce1de5af4a3e"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:470f209c8b4571f5",
+        "android_client_info": {
+          "package_name": "com.infini8ai.naseemprincipal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-hs42bhgnbtfoiq2m2a6cd9vagsgmlc8a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd3"
+          }
+        },
+        {
+          "client_id": "224160441920-m35ngu4r1aod1oegvbl2lavmm7eacfug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal",
+            "certificate_hash": "9224caf3b5e467a34120138c59a71badd3210fe6"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:38e1db5fdb2ac3e0ef61a5",
+        "android_client_info": {
+          "package_name": "com.infini8ai.naseemprincipal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-98h1p580c3js8g2qutph43kff90rahvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal2",
+            "certificate_hash": "af87fc217a24e48f290ea99bac5f57e0a7021796"
+          }
+        },
+        {
+          "client_id": "224160441920-ivigjjb5meeasp96defh3hpbg7nbsol6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal2",
+            "certificate_hash": "9c1e8bc3a80a7dfa246730495cd72f7e59aba098"
+          }
+        },
+        {
+          "client_id": "224160441920-ls9oljb381ji5sbkosb14is8gghpiomd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal2",
+            "certificate_hash": "33d80626a13f5fc0fdf2773e32f7bf10170a6ea1"
+          }
+        },
+        {
+          "client_id": "224160441920-qtcr8ur7crbmm6n82sn2s8v7ca7d2r8s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal2",
+            "certificate_hash": "30fd6109e6b330f1cff7bc958e70ce1de5af4a3e"
+          }
+        },
+        {
+          "client_id": "224160441920-r4k0u4j526b3b8ug9nurgih6m9aheu1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemprincipal2",
+            "certificate_hash": "9224caf3b5e467a34120138c59a71badd3210fe6"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:8589d43ff55473c7",
+        "android_client_info": {
+          "package_name": "com.infini8ai.naseemstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-a5c99mhk6kfvkerqk97s6u9i81aqpjmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemstudent",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd3"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:c57e6f48a771b84f",
+        "android_client_info": {
+          "package_name": "com.infini8ai.naseemteacher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-42sh1r1slnntkraut87o187i0805g9bb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemteacher",
+            "certificate_hash": "33d80626a13f5fc0fdf2773e32f7bf10170a6ea1"
+          }
+        },
+        {
+          "client_id": "224160441920-amt54nomk47pc6hch3h25ltkdc07s5da.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemteacher",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd3"
+          }
+        },
+        {
+          "client_id": "224160441920-b1ur4s36dkgipphoi33f4fd018c8ierj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemteacher",
+            "certificate_hash": "9c1e8bc3a80a7dfa246730495cd72f7e59aba098"
+          }
+        },
+        {
+          "client_id": "224160441920-jjgrhnobpoqpdskbe4da7dll0rm1c3ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemteacher",
+            "certificate_hash": "af87fc217a24e48f290ea99bac5f57e0a7021796"
+          }
+        },
+        {
+          "client_id": "224160441920-o7sst3dansm0rvmcl1s7vpa1brgsup61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemteacher",
+            "certificate_hash": "9224caf3b5e467a34120138c59a71badd3210fe6"
+          }
+        },
+        {
+          "client_id": "224160441920-u66klnrd8sqsfb8emp6a9v001ibqak3o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.naseemteacher",
+            "certificate_hash": "efe40ae0023ed8746c3a78797540e53a527f5dab"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224160441920:android:732e49cfc78e06e4",
+        "android_client_info": {
+          "package_name": "com.infini8ai.organizationandschool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "224160441920-9atfl434avlgqtd61cp6p47vr8ol53cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.organizationandschool",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd3"
+          }
+        },
+        {
+          "client_id": "224160441920-fb8h88llmlnqgqtvntvdgov14vreh8vl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infini8ai.organizationandschool",
+            "certificate_hash": "a3ee09a796f75c35db09131a2233c6943dff1dd4"
+          }
+        },
+        {
+          "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_zy2JsT9vaEOPH5mlRp_0zUPZZfQQ7-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "224160441920-pm5lnr07k9hqt8vrkishc7rbo9j0sh4o.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "224160441920-1d03a35rn1ihtkqavbg19vmgkiktlv02.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.infini8ai.naseemexecutivee"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
